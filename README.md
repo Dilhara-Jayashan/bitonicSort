@@ -539,10 +539,8 @@ If you reference this project in academic work, please cite as:
 
 ## 📬 Contact & Links
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **GitHub:** [Dilhara Jayahan](https://github.com/Dilhara-Jayashan)
+- **Email:** dilharajayashan@gmail.com
 
 ### Project Links
 - 🐛 [Report Bug](https://github.com/yourusername/bitonic-sort/issues)
