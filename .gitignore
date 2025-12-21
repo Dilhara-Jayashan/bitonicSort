@@ -1,0 +1,43 @@
+# Compiled binaries
+*.out
+*.o
+*.exe
+serial_sort
+OpenMP/bitonic_openmp
+MPI/bitonic_mpi
+bitonic_cuda
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+dist/
+
+# Output files (optional - uncomment if you don't want to track outputs)
+# OutputFiles/*.txt
+
+# Temporary files
+*.tmp
+*.log
+# Virtual Environment
+.venv/

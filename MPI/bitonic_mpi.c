@@ -115,10 +115,7 @@ static int read_input_rank0(const char *path, int **data_out)
  * --------------------------
  * Bitonic comparator: compares two elements and swaps them if they're in wrong order.
  * This is the fundamental operation in bitonic sort.
- * 
- * @param a: Pointer to first element
- * @param b: Pointer to second element
- * @param direction: Sort direction (1 = ascending, 0 = descending)
+
  * 
  * Purpose: Ensures elements are ordered correctly based on sort direction
  * - If direction is ascending (1): ensures a <= b
